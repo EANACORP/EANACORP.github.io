@@ -46,7 +46,8 @@
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	padding: 6% 6%;
+	padding: 2% 6%;
+	background-color: var(--unnamed-color-b9cece);
 	
 	z-index: 10;	
 	position: fixed;
